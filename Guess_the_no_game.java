@@ -8,7 +8,7 @@ class Game {
     public int inputNumber;
     public int noOfGuesses = 0;
 
-    public int getNoOfGuesses() {
+    public int getNoOfGuesses() { 
         return noOfGuesses;
     }
 
