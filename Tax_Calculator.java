@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Tax_Calculator {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.print("Enter your Income::");
+        System.out.print("Enter your Income::"); 
         double n = scan.nextDouble();
         System.out.println("Enter the Deductions::");
         System.out.print("1-Medical Scheme::");
