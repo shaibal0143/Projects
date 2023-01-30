@@ -8,7 +8,7 @@ public class Tax_Calculator {
         System.out.println("Enter the Deductions::");
         System.out.print("1-Medical Scheme::");
         double a = scan.nextDouble();
-        System.out.print("Life Insurance::");
+        System.out.print("Life Insurance::"); 
         double b = scan.nextDouble();
         System.out.print("Miscellanous Amount::");
         double c = scan.nextInt();
