@@ -10,7 +10,7 @@ public class Tax_Calculator {
         double a = scan.nextDouble();
         System.out.print("Life Insurance::"); 
         double b = scan.nextDouble();
-        System.out.print("Miscellanous Amount::");
+        System.out.print("Miscellanous Amount::"); 
         double c = scan.nextInt();
         double total = (n - a - b - c);
         System.out.println("Toatal amount is::" + total);
