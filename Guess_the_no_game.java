@@ -35,7 +35,7 @@ class Game {
             return true;
         } else if (inputNumber < number) {
             System.out.println("Too low...");
-        } else if (inputNumber > number) {
+        } else if (inputNumber > number) { 
             System.out.println("Too high...");
         }
         return false;
