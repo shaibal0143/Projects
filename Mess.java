@@ -22,8 +22,7 @@ public class Mess {
         System.out.println("-----------------------------------------------------------------------------");
         System.out.println("Rules for Joining in RM PG ");
         System.out.println("-----------------------------------------------------------------------------");
-        System.out
-                .println("Monthly Expense for Each Person is Rs1700\nYou Have to Work on Date Which is Assign to You.");
+        System.out.println("Monthly Expense for Each Person is Rs1700\nYou Have to Work on Date Which is Assign to You.");
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Total Number of PG Members : ");
         int totalMember = sc.nextInt();
